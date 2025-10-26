@@ -43,3 +43,11 @@ If you're interested in contributing to the documentation, please refer to this 
 ## License
 
 MIT © [Hirotomo Yamada](https://github.com/hirotomoyamada)
+## How to Contribute
+
+1. Fork this repository on GitHub.
+2. Clone your fork and create a new branch for your contribution.
+3. Make your changes and commit them with clear messages.
+4. Push your branch to your fork on GitHub.
+5. Open a pull request and describe your changes.
+6. Wait for the maintainers to review, then update your PR if needed.
